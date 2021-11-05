@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Connor McGuire
-- 👀 I’m interested in back end software devlopment and testing!
-- 🌱 I’m currently learning Java, SQL, and JavaScript.
+- 👀 I’m interested in full stack software devlopment and testing!
+- 🌱 I’m currently learning Java, SQL, C# and Web Development tools such as HTML, CSS, PHP and JavaScript.
 - 💞️ I’m looking to collaborate on exciting new projects.
 - 📫 How to reach me: connor3mm@gmail.com
 
